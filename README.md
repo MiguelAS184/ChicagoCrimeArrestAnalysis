@@ -58,9 +58,7 @@ The project explored:
 
 This project was also presented in poster format as part of the course research presentation requirements.
 
-Link
-
-⚠️ Note: The live demo is hosted on a university server and may become unavailable after institutional access expires.
+(https://www.keanresearchdays.com/student-poster-presentation-2025-feed/chicago-crime-arrest-data-mining)
 
 ## Repository Notes
 
